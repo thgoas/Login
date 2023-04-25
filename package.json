@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.1",
     "@typescript-eslint/eslint-plugin": "^5.59.1",
     "@typescript-eslint/parser": "^5.59.1",
     "eslint": "^8.39.0",
@@ -24,5 +25,8 @@
     "tsx": "^3.12.6",
     "typescript": "^5.0.4",
     "vitest": "^0.30.1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
   }
 }
